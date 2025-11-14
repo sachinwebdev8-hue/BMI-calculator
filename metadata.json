@@ -1,0 +1,5 @@
+{
+  "name": "BMI Calculator - Minimalistic & Accurate",
+  "description": "A simple, fast, and SEO-friendly BMI calculator built with React and Tailwind CSS. Calculate your Body Mass Index for metric or imperial units to understand your weight status.",
+  "requestFramePermissions": []
+}
